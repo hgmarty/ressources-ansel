@@ -1,6 +1,6 @@
 Repository for ressources in darktable :
 
 - archives for non recent documents
-- docs for darktable or photography
+- docs for ansel or photography (perhaps there is for dt)
 - styles
 
